@@ -1,0 +1,5 @@
+app_image: "ghcr.io/arnor4eck/devops-ci-app"
+app_tag: "bce29919d6fc7f76ac48fd1acf2c9bdcb4bb1be7"
+app_container_name: "devops-ci-app"
+app_host_port: 5000
+app_internal_port: 5000
