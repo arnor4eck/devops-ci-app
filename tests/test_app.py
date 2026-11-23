@@ -23,6 +23,6 @@ def test_index(client):
     assert response.status_code == 200
     assert response.get_json() == {
         "service": "devops-ci-app",
-        "version": "1.0.0-kivalin",
+        "version": "1.0.0",
         "status": "running",
     }
